@@ -1,0 +1,10 @@
+Package: com.neoneggplant.screenshot
+Name: screenshot
+Depends: cycript
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Take screenshots from the command line
+Maintainer: neoneggplant
+Author: neoneggplant
+Section: System
+Tag: role::hacker
